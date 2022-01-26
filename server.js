@@ -4,7 +4,7 @@
 *  No part of this assignment has been copied manually or electronically from any other source 
 *  (including 3rd party web sites) or distributed to other students.
 * 
-*  Name: Chloe Jung      Student ID: 109723205       Date: 2021-12-02
+*  Name: Chloe Jung             Date: 2021-12-02
 *
 *  Online (Heroku) Link: https://stormy-tor-42192.herokuapp.com/
 *
